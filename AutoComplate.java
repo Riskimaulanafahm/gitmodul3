@@ -1,4 +1,3 @@
-package Modul3;
 
 import java.util.Scanner;
 
